@@ -258,6 +258,7 @@ DEPENDENCIES
   jekyll-data
   jekyll-feed (~> 0.6)
   jekyll-include-cache
+  jekyll-remote-theme
   minimal-mistakes-jekyll
   tzinfo-data
 
