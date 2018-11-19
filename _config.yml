@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "(ad)ventures of the human mind"
+title                    : "(ad)ventures of my human mind"
 title_separator          : "-"
 name                     : "ahfant"
 description              : "ahfant (ad)ventures"
