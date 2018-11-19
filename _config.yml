@@ -28,13 +28,13 @@ github_username:  ahfant
 markdown: kramdown
 # theme: minimal-mistakes-jekyll
 remote_theme          : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin : "default" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin : "air" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-data
-#  - jekyll-remote-theme
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
