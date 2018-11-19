@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-data
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
