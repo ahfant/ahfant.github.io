@@ -1,0 +1,7 @@
+main:
+  - title: Blog
+    url: /blog/
+  - title: About
+    url: /about/
+  - title: Terms and Privacy Policy
+    url: /terms/
