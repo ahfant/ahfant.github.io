@@ -1,85 +1,80 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2018-06-04T12:04:24-04:00
+excerpt: "Soo Yam is preoccupied with many things."
+timeline_gallery:
+  - url: /assets/images/img_career_timeline.jpg
+    image_path: "/assets/images/img_career_timeline.jpg"
+    alt: "A brief history of my time"
+last_modified_at: 2018-11-20T11:22:33+01:00
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Passionate and preoccupied with artificial intelligence (AI) technologies to drive smart decision-making, thereby
+optimizing and automating business processes
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+Strongly believes that AI must be handled appropriately and ethically to empower humans
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+## Academia / Employment
+{% include gallery id="timeline_gallery" caption="A brief history of my time" %}
 
-## Notable Features
+## Achievements
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, [Discourse](https://www.discourse.org/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Hungarian, Indonesian, Italian (Italiano), Japanese, Korean, Nepali (Nepalese), Polish, Russian, Slovak, Spanish (Español), Swedish, Turkish (Türkçe), and Vietnamese.
+- Over 10 years of international consulting experience with work stints in Africa, Asia, Australia, Europe, and North America
+- Business process subject matter expert in industries such as aerospace & defence, banking, government, high-tech manufacturing, and resources (oil & gas, mining, wind)
+- Certified Project Management Professional (PMP®) since 2014
+- Top graduate from the postgraduate program MSc. Information Engineering with a specialization on intelligent systems
+- Volunteering as a community leader for “Singaporeans in Germany” network, currently responsible for Baden-
+Württemberg
 
-## Demo Pages
+## Skills
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+### Technical Competency (Primary)
+Apache Hadoop, 
+Apache Spark, 
+Google TensorFlow, 
+Microsoft Cognitive Toolkit, 
+Python, 
+Yahoo TensorFlowOnSpark
 
-For even more demo pages check the [posts archive][year-archive].
+### Technical Competency (Secondary)
+Android Development, 
+C#.NET, 
+Hortonworks Data Platform, 
+Java, 
+JavaScript, 
+Jekyll, 
+KNIME, 
+MATLAB
 
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
+### AI Focus
+Deep Learning (convolutional, recurrent nets), Big Data (time series, images), Distributed model training
+
+## SAP Consulting
+
+### Core Releases
+SAP R/3 Enterprise 4.7,
+SAP ERP Central Component (ECC) 6.0,
+SAP S/4HANA 1709, 1809
+
+### Modules (Primary)
+SAP Materials Management, 
+SAP Sourcing, 
+SAP Supplier Relationship Management, 
+SAP Fiori
+
+### Modules (Secondary)
+SAP Human Resource, 
+SAP Plant Maintenance, 
+SAP Quality Management
+
+## (Human) Languages
+English (Native), 
+Chinese (Native), 
+German (B2)
 
 ---
 
-## Credits
+_(ad)ventures of my human mind_ is powered by Jekyll (using the theme from Minimal Mistakes) and hosted on Github Pages.
 
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+Created by Soo Yam, a Singaporean residing in Germany since 2015.
