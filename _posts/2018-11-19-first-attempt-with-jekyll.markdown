@@ -31,7 +31,7 @@ print_hw('ahfant')
 _Auf Deutsch_
 ------
 
-Ich habe mich schließlich entschieden, die GitHub-Pages aus folgenden Gründen sinnvoll zu gestalten (geordnet nach Priorität der Überlegungen):
+Ich habe mich schließlich entschieden, die GitHub-Pages aus folgenden Gründen sinnvoll zu gestalten (geordnet nach der Priorität der Überlegungen):
 
 - Schreiben/Publizieren anständiger Artikeln.
 - Sparen der Webhosting-Kosten
