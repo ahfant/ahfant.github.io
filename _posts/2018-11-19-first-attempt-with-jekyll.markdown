@@ -31,13 +31,13 @@ print_hw('ahfant')
 _Auf Deutsch_
 ------
 
-Ich habe mich schließlich entschieden, die GitHub-Pages aus folgenden Gründen sinnvoll zu nutzen (geordnet nach Priorität der Überlegungen):
+Ich habe mich schließlich entschieden, die GitHub-Pages aus folgenden Gründen sinnvoll zu gestalten (geordnet nach Priorität der Überlegungen):
 
-- Schreiben/publizieren anständige Artikel.
-- Sparen bei den Webhosting-Gebühren
-- Lernen [Github Pages][github-pages], [Jekyll][jekyllrb], [Bundler][bundler]
-- Üben Webdesign, Markdown
-- Implementieren [Jekyll-Themen][jekyll-themes] z.B. [Minimal Mistakes][minimal-mistakes]
+- Schreiben/Publizieren anständiger Artikeln.
+- Sparen der Webhosting-Kosten
+- Lernen von [Github-Pages][github-pages], [Jekyll][jekyllrb], [Bundler][bundler]
+- Übung von Webdesign, Markdown
+- Implementierung von [Jekyll-Themen][jekyll-themes] z.B. [Minimal Mistakes][minimal-mistakes]
 - Bloggen mit [Octopress][octopress]
 
 Und Jekyll bietet leistungsstarke Unterstützung für Codeausschnitte:
