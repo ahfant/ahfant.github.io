@@ -8,6 +8,7 @@ header:
 
 {% include figure image_path="/assets/images/img_building_sicily.jpg" %}
 
+
 I have finally decided to make good use of GitHub Pages, for the following reasons (ordered in the priority of considerations):
 
 - Write/publish decent articles
