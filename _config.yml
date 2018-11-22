@@ -102,19 +102,19 @@ analytics:
 author:
   name             : "Soo Yam TAN"
   avatar           : "/assets/images/img_bio.jpg"
-  bio              : "SAP. Project Management. Distributed Deep Learning. Big Data. And Photography."
+  bio              : "SAP. Certified PMP®. Distributed Deep Learning. Big Data."
   location         : "Heidelberg, Germany"
   email            :
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ahfant"
+    - label: "ahfant.github.io"
+      icon: "fas fa-fw fa-thumbtack"
+      url: "https://ahfant.github.io"
+    - label: "ahfant.netlify.com"
+      icon: "fas fa-fw fa-thumbtack"
+      url: "https://ahfant.netlify.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/tansooyam/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/ah_fant"
 
 # Site Footer
 footer:
