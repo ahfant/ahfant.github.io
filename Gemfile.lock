@@ -274,6 +274,7 @@ DEPENDENCIES
   jekyll-data
   jekyll-feed (~> 0.6)
   jekyll-include-cache
+  jekyll-paginate
   minimal-mistakes-jekyll
   octopress (~> 3.0)
   tzinfo-data
